@@ -1,0 +1,85 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/03/2021, 18:11:24
+    Author     : Richard
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,500&display=swap');
+
+label.error{
+    color: red;
+}
+
+input.error{
+    border: 1px solid red;
+}
+
+/*
+* {
+    box-sizing: border-box;
+}
+
+
+.frm-input input:focus {
+	outline: 0;
+	border-color: #777;
+}
+
+.frm-input.success input{
+   border-color: #2ecc71; 
+}
+
+.frm-input.error input {
+	border-color: #e74c3c;
+}
+
+.frm-input i{
+    visibility: hidden;
+    position: absolute;
+    top: 40px;
+    right: 10px;
+    color: #2ecc71; 
+}
+
+.frm-input.success i.fa-check-circle{
+    color:#2ecc71;
+    visibility: visible;
+}
+
+.frm-input.error i.fa-exclamation-circle{
+    color:#e74c3c;
+    visibility: visible;
+}
+
+.frm-input small{
+     visibility: hidden;
+    color: #2ecc71;
+    position:absolute;
+    bottom:0;
+    left:0;
+}
+
+.frm-input.error small{
+    visibility: visible;
+}
+
+#FormIngPersona button {
+	background-color: #8e44ad;
+	border: 2px solid #8e44ad;
+	border-radius: 4px;
+	color: #fff;
+	display: block;
+	font-family: inherit;
+	font-size: 16px;
+	padding: 10px;
+	margin-top: 20px;
+	width: 100%;
+}*/
+/*small{
+    color: red;
+}*/
